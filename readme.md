@@ -21,7 +21,7 @@ Certifique-se de ter o Python instalado em sua máquina. O projeto utiliza um am
 1. Clone o repositório do projeto:
 
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/HiroIWL/iara-games-back
    cd iara-games-back
    ```
 
